@@ -9,7 +9,7 @@ Sample test script.
 from __future__ import print_function
 
 x = 1
-y = 1
+y = 2
 z = x + y
 expected_sum = 2
 
