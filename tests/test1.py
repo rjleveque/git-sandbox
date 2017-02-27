@@ -11,7 +11,7 @@ from __future__ import print_function
 x = 1
 y = 2
 z = x + y
-expected_sum = 2
+expected_sum = 3
 
 # informative error message in case test fails:
 error_message = 'x = %g, y = %g, x+y=%g disagrees with expected sum = %g' \
